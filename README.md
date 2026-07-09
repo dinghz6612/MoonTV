@@ -1,4 +1,11 @@
-# MoonTV
+# ⚠️ 本项目已升级为 [LunaTV](https://github.com/MoonTechLab/LunaTV)
+
+> **MoonTV 已被 LunaTV 取代。** LunaTV 由原班人马打造，功能更强、体验更好。
+> 请访问新的官方仓库：[MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV)
+>
+> 本仓库仅保留作为历史参考，不再维护。
+
+---
 
 <div align="center">
   <img src="public/logo.png" alt="LibreTV Logo" width="120">
